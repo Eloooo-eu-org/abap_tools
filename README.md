@@ -13,9 +13,11 @@ While we cannt hel you with the first challenge, at least we can try to help you
 Note: While we do our best efforts to test the code extensively before publishing it, it is your responsability as a developer to re-test it and check the suitability of the proposed solution before using it in your own code. 
 As an Open-Source Project we cannot take responsability for any use of this code whatsoever, or give you any guarantee of suitability.
 
+To ensure stability and safety, Bug-Fixing will be done directly in the current version. Minor functionalities will be included in the next Minor Version (v.01.XX). Interface changes as well as Major changes will be only included in the next Major Version (v.0X).
+
 # Contributions
 
-All contributions are welcome! Read our [Contribution Guidelines] (Contributions.md), fork this repo, and create a pull request.
+All contributions are welcome! Read our [Contribution Guidelines](Contributions.md), fork this repo, and create a pull request.
 
 # About
 
