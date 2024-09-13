@@ -15,7 +15,7 @@ As an Open-Source Project we cannot take responsability for any use of this code
 
 # Contributions
 
-All contributions are welcome! Read our Contribution Guidelines, fork this repo, and create a pull request.
+All contributions are welcome! Read our [Contribution Guidelines] (Contributions.md), fork this repo, and create a pull request.
 
 # About
 
