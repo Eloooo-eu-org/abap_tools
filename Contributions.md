@@ -1,5 +1,5 @@
 
-Your suggestions and contributions are welcomed! Before opening your first issue or pull request, please review and respect the  [Code of Conduct](https://github.com/SAP/.github/blob/main/CODE_OF_CONDUCT.md) of the SAP Open Source Project to understand how our community interacts in an inclusive and respectful manner. Please also review and respect the the  [Security Guidelines](https://github.com/SAP/.github/blob/main/SECURITY.md)
+Your suggestions and contributions are welcomed! Before opening your first issue or pull request, please review and respect the  [Code of Conduct](https://github.com/SAP/.github/blob/main/CODE_OF_CONDUCT.md) and the  [Security Guidelines](https://github.com/SAP/.github/blob/main/SECURITY.md) of the SAP Open Source Project, to understand how our community interacts in an safe, inclusive and respectful manner. 
 
 ## General Advice
 
